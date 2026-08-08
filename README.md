@@ -15,10 +15,6 @@
 └───────────────────────────────────────────────────────────┘
 ```
 
-### ⚡ System Status & Overview
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=120&lines=System.init(%22Mahyar+Dayani%22)+%E2%9A%A1;Role%3A+Web+Performance+Engineer+%2B+Systems+Architect+%F0%9F%92%BB;Creator+of+AuraUI+Design+System+%2B+Falconic+Pro+%F0%9F%9A%80;Based+in+Auckland%2C+New+Zealand+%F0%9F%87%B3%F0%9F%87%BF)](https://git.io/typing-svg)
-
 <br/>
 
 <!-- Quick Link Badges -->
@@ -28,11 +24,23 @@
 [![Location](https://img.shields.io/badge/📍_Location-Auckland%2C_NZ-0284C7?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/mahyardyn)
 [![Profile Views](https://komarev.com/ghpvc/?username=mahyardyn&color=9333EA&style=for-the-badge&label=👁️_VIEWS)](https://github.com/mahyardyn)
 
+<br/>
+
+<!-- Core Web Vitals & Performance Metrics -->
+[![PageSpeed](https://img.shields.io/badge/⚡_PageSpeed-100%2F100_Score-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/mahyardyn)
+[![LCP](https://img.shields.io/badge/🎯_LCP-0.4s_Optimized-10B981?style=for-the-badge)](https://github.com/mahyardyn)
+[![CLS](https://img.shields.io/badge/🎨_CLS-0.00_Zero_Shift-0284C7?style=for-the-badge)](https://github.com/mahyardyn)
+[![FID](https://img.shields.io/badge/🚀_FID-2ms_Zero_Latency-8B5CF6?style=for-the-badge)](https://github.com/mahyardyn)
+
 </div>
 
 ---
 
 ## 🎮 Developer Specs & Attributes
+
+> 👋 **Hi there! I'm Mahyar Dayani** — Founder & Lead Developer at **Dynamatic**, based in **Auckland, New Zealand 🇳🇿**. I specialize in high-performance web engineering, fluid CSS design systems, and deep speed optimization architectures.
+> 
+> 💡 **My Engineering Philosophy:** Software should be blazing fast, modular, and visually impeccable. I stop performance bloat at the root source by building custom MU-plugin engines, optimizing Core Web Vitals (LCP, CLS, FID), and crafting lightweight fluid UI frameworks.
 
 ```json
 {
@@ -57,43 +65,6 @@
   "equipped_weapons": ["PHP", "JavaScript / TypeScript", "Sass / SCSS", "esbuild", "LightningCSS", "Cloudflare Workers", "Linux Terminal"]
 }
 ```
-
----
-
-## 🚀 About Me & Engineering Philosophy
-
-> 👋 **Hi there! I'm Mahyar Dayani** — Founder & Lead Developer at **Dynamatic**, based in **Auckland, New Zealand 🇳🇿**. I specialize in high-performance web engineering, fluid CSS design systems, and deep speed optimization architectures.
-> 
-> 💡 **My Engineering Philosophy:**
-> Software should be blazing fast, modular, and visually impeccable. I stop performance bloat at the root source by building custom MU-plugin engines, optimizing Core Web Vitals (LCP, CLS, FID), and crafting lightweight fluid UI frameworks.
-> 
-> 🚀 **Active Featured Projects:**
-> - 🎨 **[AuraUI (aura-framework)](https://github.com/mahyardyn/aura-framework):** A modern, lightweight, fluid design system framework built with Sass, esbuild, and LightningCSS.
-> - ⚡ **[Falconic Pro](https://github.com/mahyardyn/falconic):** The ultimate WordPress Asset & Plugin Manager featuring a proprietary MU-plugin engine, regex path targeting, and frontend script management.
-> - 🔥 **[Dragonizer](https://github.com/mahyardyn/dragonizer):** High-performance caching and speed optimization suite.
-> - 🍽️ **[ViraMenu](https://github.com/mahyardyn/viramenu):** Advanced digital menu platform for interactive dining experiences.
-> - ☁️ **[Cloudflare Workers Suite](https://github.com/mahyardyn/workers):** Edge computing scripts for zero-latency URL routing and API optimizations.
-
----
-
-## 🛠️ Tech Stack & Architecture Arsenal
-
-<div align="center">
-
-### 🔮 Core Technologies & Frameworks
-
-[![My Skills](https://skillicons.dev/icons?i=php,js,ts,sass,css,html,nodejs,bash,linux,docker,cloudflare,git,github,vscode,figma,mysql,postgres&perline=9&theme=dark)](https://skillicons.dev)
-
-</div>
-
-<br/>
-
-| Category | Tools & Technologies | Focus Area |
-| :--- | :--- | :--- |
-| 🎨 **Design Systems & UI** | AuraUI, SCSS / Sass, CSS3, LightningCSS, esbuild | Fluid Typography, Tokens, Minimalist Layouts |
-| ⚡ **Performance Engineering** | Falconic, MU-Plugins, Core Web Vitals, Dragonizer | Granular Asset Disabling, Unused JS/CSS Stripping |
-| ⚙️ **Backend & Edge** | PHP 8+, Node.js, REST APIs, Cloudflare Workers | Serverless Edge Scripts, Clean Code |
-| 🛠️ **DevOps & Tooling** | Linux (Zsh/Bash), Git, GitHub Actions, Docker | Build Automation, CI/CD Pipelines |
 
 ---
 
@@ -124,6 +95,27 @@
 </picture>
 
 </div>
+
+---
+
+## 🛠️ Tech Stack & Architecture Arsenal
+
+<div align="center">
+
+### 🔮 Core Technologies & Frameworks
+
+[![My Skills](https://skillicons.dev/icons?i=php,js,ts,sass,css,html,nodejs,bash,linux,docker,cloudflare,git,github,vscode,figma,mysql,postgres&perline=9&theme=dark)](https://skillicons.dev)
+
+</div>
+
+<br/>
+
+| Category | Tools & Technologies | Focus Area |
+| :--- | :--- | :--- |
+| 🎨 **Design Systems & UI** | AuraUI, SCSS / Sass, CSS3, LightningCSS, esbuild | Fluid Typography, Tokens, Minimalist Layouts |
+| ⚡ **Performance Engineering** | Falconic, MU-Plugins, Core Web Vitals, Dragonizer | Granular Asset Disabling, Unused JS/CSS Stripping |
+| ⚙️ **Backend & Edge** | PHP 8+, Node.js, REST APIs, Cloudflare Workers | Serverless Edge Scripts, Clean Code |
+| 🛠️ **DevOps & Tooling** | Linux (Zsh/Bash), Git, GitHub Actions, Docker | Build Automation, CI/CD Pipelines |
 
 ---
 

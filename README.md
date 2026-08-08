@@ -15,7 +15,7 @@
 └───────────────────────────────────────────────────────────┘
 ```
 
-### ⚡ `mahyar --status --verbose`
+### ⚡ System Status & Overview
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=120&lines=System.init(%22Mahyar+Dayani%22)+%E2%9A%A1;Role%3A+Web+Performance+Engineer+%2B+Systems+Architect+%F0%9F%92%BB;Creator+of+AuraUI+Design+System+%2B+Falconic+Pro+%F0%9F%9A%80;Based+in+Auckland%2C+New+Zealand+%F0%9F%87%B3%F0%9F%87%BF)](https://git.io/typing-svg)
 
@@ -32,17 +32,7 @@
 
 ---
 
-## 🏆 `cat github_trophies.json`
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=mahyardyn&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🎮 `cat character_sheet.json`
+## 🎮 Developer Specs & Attributes
 
 ```json
 {
@@ -70,7 +60,7 @@
 
 ---
 
-## 📁 `cat about_me.md`
+## 🚀 About Me & Engineering Philosophy
 
 > 👋 **Hi there! I'm Mahyar Dayani** — Founder & Lead Developer at **Dynamatic**, based in **Auckland, New Zealand 🇳🇿**. I specialize in high-performance web engineering, fluid CSS design systems, and deep speed optimization architectures.
 > 
@@ -86,11 +76,11 @@
 
 ---
 
-## 🛠️ `ls -la skills/`
+## 🛠️ Tech Stack & Architecture Arsenal
 
 <div align="center">
 
-### 🔮 Tech Arsenal & Stack Matrix
+### 🔮 Core Technologies & Frameworks
 
 [![My Skills](https://skillicons.dev/icons?i=php,js,ts,sass,css,html,nodejs,bash,linux,docker,cloudflare,git,github,vscode,figma,mysql,postgres&perline=9&theme=dark)](https://skillicons.dev)
 
@@ -107,7 +97,7 @@
 
 ---
 
-## 🐍 `cat contribution_snake.gif`
+## 🐍 Contribution Activity Grid
 
 > 🕹️ **Automated Snake Game eating GitHub Contributions in real-time:**
 
@@ -123,7 +113,7 @@
 
 ---
 
-## 🧊 `cat 3d_contribution_wall.png`
+## 🌐 3D Contribution Landscape
 
 <div align="center">
 
@@ -137,58 +127,13 @@
 
 ---
 
-## 📊 `cat stats_and_metrics.md`
+## 📫 Connect & Collaborate
 
 <div align="center">
 
-<p align="center">
-  <a href="https://github.com/mahyardyn">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mahyardyn&show_icons=true&theme=catppuccin&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahyardyn&layout=compact&theme=catppuccin&hide_border=true"/>
-  </a>
-</p>
-
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mahyardyn&theme=catppuccin&hide_border=true)](https://git.io/streak-stats)
+> 💡 **Open for collaboration on high-performance web tools, design systems, and speed optimization projects!**
 
 <br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahyardyn&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 💡 `cat developer_hacks.md`
-
-<details>
-<summary><b>🔍 Click to reveal technical highlights & methodology</b></summary>
-
-<br/>
-
-> - 🎯 **MU-Plugin Engine Filtering:** Filtering plugins strictly *before* core loading to prevent PHP overhead and database queries entirely.
-> - 🎨 **Fluid Design Tokens (AuraUI):** Utilizing dynamic SCSS math (`clamp()`), esbuild bundling, and LightningCSS minification for micro-sized design systems.
-> - ⚡ **Core Web Vitals Perfection:** Granular regex URL targeting to eliminate unused CSS/JS and optimize LCP/FID/CLS scores.
-> - ☁️ **Edge Scripting:** Deploying Cloudflare Workers for zero-latency serverless routing and dynamic payload handling.
-
-</details>
-
----
-
-## 🤖 `cat random_dev_joke.json`
-
-<div align="center">
-
-[![Random Dev Joke](https://readme-jokes.vercel.app/api?theme=dracula)](https://github.com/absz/readme-jokes)
-
-</div>
-
----
-
-## 📫 `ping -c 4 mahyar@dev`
-
-<div align="center">
-
-> 💡 **Open for collaboration on high-performance web tools, design systems, and optimization projects!**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahyardyn)
 [![Email](https://img.shields.io/badge/Email-Mahyar.Dayani%40Gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mahyar.Dayani@Gmail.com)

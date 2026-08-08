@@ -19,18 +19,8 @@
 
 <!-- Quick Link Badges -->
 [![GitHub](https://img.shields.io/badge/⭐_GitHub-mahyardyn-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahyardyn)
-[![Email](https://img.shields.io/badge/✉️_Email-Mahyar.Dayani%40Gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mahyar.Dayani@Gmail.com)
-[![Brand](https://img.shields.io/badge/⚡_Organization-Dynamatic-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/mahyardyn)
 [![Location](https://img.shields.io/badge/📍_Location-Auckland%2C_NZ-0284C7?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/mahyardyn)
 [![Profile Views](https://komarev.com/ghpvc/?username=mahyardyn&color=9333EA&style=for-the-badge&label=👁️_VIEWS)](https://github.com/mahyardyn)
-
-<br/>
-
-<!-- Core Web Vitals & Performance Metrics -->
-[![PageSpeed](https://img.shields.io/badge/⚡_PageSpeed-100%2F100_Score-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/mahyardyn)
-[![LCP](https://img.shields.io/badge/🎯_LCP-0.4s_Optimized-10B981?style=for-the-badge)](https://github.com/mahyardyn)
-[![CLS](https://img.shields.io/badge/🎨_CLS-0.00_Zero_Shift-0284C7?style=for-the-badge)](https://github.com/mahyardyn)
-[![FID](https://img.shields.io/badge/🚀_FID-2ms_Zero_Latency-8B5CF6?style=for-the-badge)](https://github.com/mahyardyn)
 
 </div>
 
@@ -116,5 +106,3 @@
 | ⚡ **Performance Engineering** | Falconic, MU-Plugins, Core Web Vitals, Dragonizer | Granular Asset Disabling, Unused JS/CSS Stripping |
 | ⚙️ **Backend & Edge** | PHP 8+, Node.js, REST APIs, Cloudflare Workers | Serverless Edge Scripts, Clean Code |
 | 🛠️ **DevOps & Tooling** | Linux (Zsh/Bash), Git, GitHub Actions, Docker | Build Automation, CI/CD Pipelines |
-
-

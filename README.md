@@ -117,28 +117,4 @@
 | ⚙️ **Backend & Edge** | PHP 8+, Node.js, REST APIs, Cloudflare Workers | Serverless Edge Scripts, Clean Code |
 | 🛠️ **DevOps & Tooling** | Linux (Zsh/Bash), Git, GitHub Actions, Docker | Build Automation, CI/CD Pipelines |
 
----
 
-## 📫 Connect & Collaborate
-
-<div align="center">
-
-> 💡 **Open for collaboration on high-performance web tools, design systems, and speed optimization projects!**
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahyardyn)
-[![Email](https://img.shields.io/badge/Email-Mahyar.Dayani%40Gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mahyar.Dayani@Gmail.com)
-
-<br/>
-
-```text
-┌─────────────────────────────────────────────────────────┐
-│  "Simplicity and speed are the ultimate sophistication." │
-│   — Dynamatic                                           │
-└─────────────────────────────────────────────────────────┘
-```
-
-<sub>⚡ Crafted with precision, performance & code | © Mahyar Dayani (Dynamatic)</sub>
-
-</div>

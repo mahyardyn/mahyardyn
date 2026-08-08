@@ -17,7 +17,7 @@
 
 ### ⚡ `mahyar --status --verbose`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=120&lines=System.init(%22Mahyar+Dayani%22)+%E2%9A%A1;Role%3A+Web+Performance+Engineer+%2B+Systems+Architect+%F0%9F%92%BB;Creator+of+AuraUI+Design+System+%2B+Falconic+Pro+%F0%9F%9A%80;Building+High-Performance+Web+Tooling+%40+Dynamatic+%F0%9F%8E%AF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=120&lines=System.init(%22Mahyar+Dayani%22)+%E2%9A%A1;Role%3A+Web+Performance+Engineer+%2B+Systems+Architect+%F0%9F%92%BB;Creator+of+AuraUI+Design+System+%2B+Falconic+Pro+%F0%9F%9A%80;Based+in+Auckland%2C+New+Zealand+%F0%9F%87%B3%F0%9F%87%BF)](https://git.io/typing-svg)
 
 <br/>
 
@@ -25,7 +25,8 @@
 [![GitHub](https://img.shields.io/badge/⭐_GitHub-mahyardyn-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahyardyn)
 [![Email](https://img.shields.io/badge/✉️_Email-Mahyar.Dayani%40Gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mahyar.Dayani@Gmail.com)
 [![Brand](https://img.shields.io/badge/⚡_Organization-Dynamatic-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/mahyardyn)
-[![Profile Views](https://komarev.com/ghpvc/?username=mahyardyn&color=9333EA&style=for-the-badge&label=👁️_PROFILE_VIEWS)](https://github.com/mahyardyn)
+[![Location](https://img.shields.io/badge/📍_Location-Auckland%2C_NZ-0284C7?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/mahyardyn)
+[![Profile Views](https://komarev.com/ghpvc/?username=mahyardyn&color=9333EA&style=for-the-badge&label=👁️_VIEWS)](https://github.com/mahyardyn)
 
 </div>
 
@@ -35,7 +36,7 @@
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=mahyardyn&theme=onedark&no-frame=true&no-bg=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=mahyardyn&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -47,6 +48,7 @@
 {
   "developer": "Mahyar Dayani",
   "username": "mahyardyn",
+  "location": "Auckland, New Zealand 🇳🇿",
   "organization": "Dynamatic",
   "role": "Web Performance Engineer & Systems Architect",
   "core_creations": [
@@ -70,7 +72,7 @@
 
 ## 📁 `cat about_me.md`
 
-> 👋 **Hi there! I'm Mahyar Dayani** — Founder & Lead Developer at **Dynamatic**. I specialize in high-performance web engineering, fluid CSS design systems, and deep speed optimization architectures.
+> 👋 **Hi there! I'm Mahyar Dayani** — Founder & Lead Developer at **Dynamatic**, based in **Auckland, New Zealand 🇳🇿**. I specialize in high-performance web engineering, fluid CSS design systems, and deep speed optimization architectures.
 > 
 > 💡 **My Engineering Philosophy:**
 > Software should be blazing fast, modular, and visually impeccable. I stop performance bloat at the root source by building custom MU-plugin engines, optimizing Core Web Vitals (LCP, CLS, FID), and crafting lightweight fluid UI frameworks.
@@ -141,7 +143,7 @@
 
 <p align="center">
   <a href="https://github.com/mahyardyn">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahyardyn&show_icons=true&theme=catppuccin&hide_border=true&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahyardyn&show_icons=true&theme=catppuccin&hide_border=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahyardyn&layout=compact&theme=catppuccin&hide_border=true"/>
   </a>
 </p>

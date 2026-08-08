@@ -24,7 +24,17 @@
 <!-- Quick Link Badges -->
 [![GitHub](https://img.shields.io/badge/⭐_GitHub-mahyardyn-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahyardyn)
 [![Email](https://img.shields.io/badge/✉️_Email-Mahyar.Dayani%40Gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mahyar.Dayani@Gmail.com)
-[![Location](https://img.shields.io/badge/📍_Location-Iran-10B981?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/mahyardyn)
+[![Profile Views](https://komarev.com/ghpvc/?username=mahyardyn&color=10B981&style=for-the-badge&label=👁️_PROFILE_VIEWS)](https://github.com/mahyardyn)
+
+</div>
+
+---
+
+## 🏆 `cat github_trophies.json`
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=mahyardyn&theme=onedark&no-frame=true&no-bg=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -85,6 +95,36 @@
 
 ---
 
+## 🐍 `cat contribution_snake.gif`
+
+> 🕹️ **Automated Snake Game eating GitHub Contributions in real-time:**
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahyardyn/mahyardyn/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahyardyn/mahyardyn/output/github-contribution-grid-snake.svg">
+  <img alt="Mahyar's GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/mahyardyn/mahyardyn/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## 🧊 `cat 3d_contribution_wall.png`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahyardyn/mahyardyn/output/profile-3d-contrib/profile-night-view.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahyardyn/mahyardyn/output/profile-3d-contrib/profile-green-animate.svg">
+  <img alt="Mahyar's 3D Contribution Wall" src="https://raw.githubusercontent.com/mahyardyn/mahyardyn/output/profile-3d-contrib/profile-night-view.svg">
+</picture>
+
+</div>
+
+---
+
 ## 📊 `cat stats_and_metrics.md`
 
 <div align="center">
@@ -98,19 +138,9 @@
 
 [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mahyardyn&theme=catppuccin&hide_border=true)](https://git.io/streak-stats)
 
-</div>
+<br/>
 
----
-
-## 🐍 `cat contribution_snake.gif`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahyardyn/mahyardyn/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahyardyn/mahyardyn/output/github-contribution-grid-snake.svg">
-  <img alt="Mahyar's GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/mahyardyn/mahyardyn/output/github-contribution-grid-snake.svg">
-</picture>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahyardyn&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 

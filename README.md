@@ -51,8 +51,7 @@
     "🐘 PHP & MU-Plugin Engineering": "█████████░ 95%",
     "⚙️ JS / Node.js & Tooling (esbuild)": "█████████░ 90%",
     "☁️ Cloudflare Workers & Edge Scripts": "█████████░ 90%"
-  },
-  "equipped_weapons": ["PHP", "JavaScript / TypeScript", "Sass / SCSS", "esbuild", "LightningCSS", "Cloudflare Workers", "Linux Terminal"]
+  }
 }
 ```
 
